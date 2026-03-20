@@ -1,6 +1,6 @@
 # ImageAI Computer Vision Flask Apps
 
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/andy-soft-hub)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/techpartner24)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://www.python.org)
 [![ImageAI](https://img.shields.io/badge/ImageAI-5C3EE8?logo=OpenCV)](https://github.com/OlafenwaMoses/ImageAI)
